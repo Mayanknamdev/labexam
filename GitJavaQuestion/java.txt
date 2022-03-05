@@ -1,0 +1,1 @@
+In java project I created a pyramid using for loop.
